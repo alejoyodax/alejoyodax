@@ -21,4 +21,6 @@ Actualmente realizo proyectos web usando React y otras librerías de diseño en 
 
 Además de ofrecer servicios de desarrollo web haciendo que micro empresas mejoren su imagen y amplien el público de sus potenciales clientes, disfruto de este arte de la programación. Así como me apasiona programar, me fascina la idea de impactar positivamente en la vida de las personas y creo fielmente en la filantropía como objeto innato de cada ser humano.
 
-
+### Mi Stack Tecnológico 🚀
+Mi pilar es la librería de React + TypeScript + Redux + HTML + CSS + JS + TAILWIND + BOOTSTRAP + EmailJs entre otras librerías y netlify para el deploy
+Mi otro gran amor es el Back con las tecnologías de NodeJs + ExpressJs + Sequelize * PostgreSQL + Heroku en deploy
