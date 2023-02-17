@@ -24,3 +24,15 @@ Además de ofrecer servicios de desarrollo web haciendo que micro empresas mejor
 ### Mi Stack Tecnológico 🚀
 Mi pilar es la librería de React + TypeScript + Redux + HTML + CSS + JS + TAILWIND + BOOTSTRAP + EmailJs entre otras librerías y netlify para el deploy
 Mi otro gran amor es el Back con las tecnologías de NodeJs + ExpressJs + Sequelize * PostgreSQL + Heroku en deploy
+
+
+## MIS PROYECTOS 💎
+
+### Página web creada de manera independente para una pequeña empresa (aún se encuentra en progreso)
+https://vitech.netlify.app/
+Código fuente: 
+
+### ECOM (e-commerce) - Proyecto final de Henry
+https://client-ecom-07-henry.netlify.app/
+
+
